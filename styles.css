@@ -83,9 +83,3 @@ h1, h2, h3, p, a {
     display: inline-block;
     vertical-align: middle;
 }
-
-@media screen and (max-width: 600px) {
-    body, html {
-      display: none;
-    }
-  }
